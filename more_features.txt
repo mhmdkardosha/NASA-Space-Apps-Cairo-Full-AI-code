@@ -1,0 +1,14 @@
+Dec [deg] = Declination of the planetary system in decimal degrees
+Eccentricity = Amount by which the orbit of the planet deviates from a perfect circle	
+Equilibrium Temperature [K] = The equilibrium temperature of the planet as modeled by a black body heated only by its host star, or for directly imaged planets, the effective temperature of the planet required to match the measured luminosity if the planet were a black body
+Impact Parameter = The sky-projected distance between the center of the stellar disc and the center of the planet disc at conjunction, normalized by the stellar radius	
+Insolation Flux [Earth Flux] = Insolation flux is another way to give the equilibrium temperature. It's given in units relative to those measured for the Earth from the Sun.
+Planet Density [g/cm**3] = Amount of mass per unit of volume of the planet	
+Planet Mass or Mass*sin(i) [Earth Mass] = Best planet mass estimate available, in order of preference: Mass, M*sin(i)/sin(i), or M*sin(i), depending on availability, and measured in Earth masses
+Planet Mass or Mass*sin(i) [Jupiter Mass] = Best planet mass estimate available, in order of preference: Mass, M*sin(i)/sin(i), or M*sin(i), depending on availability, and measured in Jupiter masses
+Planet Radius [Earth Radius] = Length of a line segment from the center of the planet to its surface, measured in units of radius of the Earth
+Planet Radius [Jupiter Radius] = Length of a line segment from the center of the planet to its surface, measured in units of radius of Jupiter
+RA [deg] = Right Ascension of the planetary system in decimal degrees
+Ratio of Planet to Stellar Radius = The planet radius divided by the stellar radius	
+Stellar Luminosity [log(Solar)] = Amount of energy emitted by a star per unit time, measured in units of solar luminosities	
+Transit Duration [hours] = The length of time from the moment the planet begins to cross the stellar limb to the moment the planet finishes crossing the stellar limb

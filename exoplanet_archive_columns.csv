@@ -1,0 +1,200 @@
+Table Label,Description
+Default Parameter Set,"Boolean flag indicating whether given set of planet 
+      parameters has been selected as default (1=yes, 0=no)"
+Solution Type,Disposition of planet according to given planet parameter set
+Controversial Flag,"Flag indicating whether the confirmation status of a planet 
+      has been questioned in the published literature (1=yes, 0=no)"
+Planet Name,Planet name most commonly used in the literature
+Host Name,Stellar name most commonly used in the literature
+Planet Letter,Letter assigned to the planetary component of a planetary system
+HD ID,Name of the star as given by the Henry Draper Catalog
+HIP ID,Name of the star as given by the Hipparcos Catalog
+TIC ID,Name of the star as given by the TESS Input Catalog
+GAIA ID,Name of the star as given by the Gaia Catalog
+Number of Stars,Number of stars in the planetary system
+Number of Planets,Number of confirmed planets in the planetary system
+Number of Moons,Number of moons in the planetary system
+Circumbinary Flag,"Flag indicating whether the planet orbits a binary system (1=yes, 0=no)"
+Discovery Method,Method by which the planet was first identified
+Discovery Year,Year the planet was discovered
+Discovery Reference,Reference name for discovery publication
+Discovery Publication Date,Publication Date of the planet discovery referee publication
+Discovery Locale,Location of observation of planet discovery (Ground or Space)
+Discovery Facility,Name of facility of planet discovery observations
+Discovery Telescope,Name of telescope of planet discovery observations
+Discovery Instrument,Name of instrument of planet discovery observations
+Detections by Radial Velocity Variations,"Flag indicating if the planet host star exhibits 
+          radial velocity variations due to the planet (1=yes, 0=no)"
+Detected by Pulsar Timing Variations,"Boolean flag indicating if the planet host star exhibits 
+        pulsar timing variations due to the planet (1=yes, 0=no)"
+Detected by Pulsation Timing Variations,"Boolean flag indicating if the planet host star exhibits 
+        pulsation timing variations due to the planet (1=yes, 0=no)"
+Detected by Transits,"Flag indicating if the planet transits its host star (1=yes, 0=no)"
+Detected by Astrometric Variations,"Flag indicating if the planet host star exhibits 
+        astrometrical variations due to the planet (1=yes, 0=no)"
+Detected by Orbital Brightness Modulations,"Flag indicating whether the planet exhibits orbital 
+        modulations on the phase curve (1=yes, 0=no)"
+Detected by Microlensing,"Boolean flag indicating if the planetary system acted as 
+        a lens during an observed microlensing event (1=yes, 0=no)"
+Detected by Eclipse Timing Variations,"Flag indicating whether a circumbinary planet that orbits 
+an eclipsing binary induces eclipse timing variations (ETVs) 
+in the binary pair (1=yes, 0=no)"
+Detected by Imaging,"Flag indicating if the planet has been observed 
+        via imaging techniques (1=yes, 0=no)"
+Detection by Disk Kinematics,"Boolean flag indicating if the presence of the 
+        planet was inferred due to its kinematic influence 
+        on the protoplanetary disk of its host star (1=yes, 0=no)"
+Planetary Parameter Reference,Reference of publication used for given planet parameter set
+Orbital Period [days],"Time the planet takes to make a complete orbit 
+around the host star or system"
+Orbital Period Reference,Reference of publication used for given planet parameter set
+Orbit Semi-Major Axis [au],"The longest radius of an elliptic orbit, or, for exoplanets 
+detected via gravitational microlensing or direct imaging, 
+the projected separation in the plane of the sky"
+Orbit Semi-Major Axis Reference,Reference of publication used for given parameter set
+Stellar Parameter Reference,Reference of publication used for given stellar parameter set
+Spectral Type,"Classification of the star based on their spectral 
+characteristics following the Morgan-Keenan system"
+Spectral Type Reference,Reference of publication used for given parameter set
+Stellar Effective Temperature [K],"Temperature of the star as modeled by a black body 
+emitting the same total amount of electromagnetic radiation"
+Stellar Effective Temperature [K] Reference,Reference of publication used for given parameter set
+Stellar Radius [Solar Radius],"Length of a line segment from the center of the star 
+to its surface, measured in units of radius of the Sun"
+Stellar Radius [Solar Radius] Reference,Reference of publication used for given parameter set
+Stellar Mass [Solar mass],"Amount of matter contained in the star, 
+measured in units of masses of the Sun"
+Stellar Mass [Solar mass] Reference,Reference of publication used for given parameter set
+Stellar Metallicity [dex],"Measurement of the metal content of the photosphere 
+of the star as compared to the hydrogen content"
+Stellar Metallicity [dex] Reference,Reference of publication used for given parameter set
+Stellar Metallicity Ratio,"Ratio for the Metallicity Value ([Fe/H] denotes iron 
+abundance, [M/H] refers to a general metal content)"
+Stellar Luminosity [log10(Solar)],"Amount of energy emitted by a star per unit time, 
+measured in units of solar luminosities"
+Stellar Luminosity [log10(Solar)] Reference,Reference of publication used for given parameter set
+Stellar Surface Gravity [log10(cm/s**2)],Gravitational acceleration experienced at the stellar surface
+Stellar Surface Gravity [log10(cm/s**2)] Reference,Reference of publication used for given parameter set
+Stellar Age [Gyr],The age of the host star
+Stellar Age [Gyr] Reference,Reference of publication used for given parameter set
+Stellar Density [g/cm**3],Amount of mass per unit of volume of the star
+Stellar Density [g/cm**3] Reference,Reference of publication used for given parameter set
+Stellar Rotational Velocity [km/s],"Rotational velocity at the equator of the star 
+multiplied by the sine of the inclination"
+Stellar Rotational Velocity [km/s],Reference of publication used for given parameter set
+Stellar Rotational Period [days],"The time required for the planet host star to 
+complete one rotation, assuming it is a solid body"
+Stellar Rotational Period [days] Reference,Reference of publication used for given parameter set
+Systemic Radial Velocity [km/s],Velocity of the star in the direction of the line of sight
+Systemic Radial Velocity [km/s] Reference,Reference of publication used for given parameter set
+Total Proper Motion [mas/yr],"Angular change in position over time as seen 
+from the center of mass of the Solar System"
+Total Proper Motion [mas/yr] Reference,Reference of publication used for given parameter set
+Proper Motion (RA) [mas/yr],"Angular change in right ascension over time as 
+seen from the center of mass of the Solar System"
+Proper Motion (RA) [mas/yr] Reference,Reference of publication used for given parameter set
+Proper Motion (Dec) [mas/yr],"Angular change in declination over time as seen 
+from the center of mass of the Solar System"
+Proper Motion (Dec) [mas/yr],Reference of publication used for given parameter set
+Distance [pc],Distance to the planetary system in units of parsecs
+Distance [pc] Reference,Reference of publication used for given parameter set
+Parallax [mas],"Difference in the angular position of a star as measured 
+at two opposite positions within the Earth's orbit"
+Parallax [mas] Reference,Reference of publication used for given parameter set
+Number of Notes,"Number of Notes associated with the planet. 
+View all notes in the Confirmed Planet Overview page."
+RA [sexagesimal],"Right Ascension of the planetary 
+system in sexagesimal format"
+Dec [sexagesimal],"Declination of the planetary 
+system in sexagesimal notation"
+RA [decimal],"Right Ascension of the planetary 
+system in decimal degrees"
+RA [decimal] Reference,Reference of publication used for given parameter set
+Dec [decimal],"Declination of the planetary 
+system in decimal degrees"
+Galactic Latitude [deg],"Galactic latitude of the planetary 
+system in units of decimal degrees"
+Galactic Longitude [deg],"Galactic longitude of the planetary 
+system in units of decimal degrees"
+Ecliptic Latitude [deg],"Ecliptic latitude of the planetary 
+system in units of decimal degrees"
+Ecliptic Longitude [deg],"Ecliptic longitude of the planetary system 
+in units of decimal degrees"
+B (Johnson) Magnitude,"Brightness of the host star as measured using 
+the B (Johnson) band in units of magnitudes"
+B (Johnson) Magnitude,Reference of publication used for given parameter set
+V (Johnson) Magnitude,"Brightness of the host star as measured using 
+the V (Johnson) band in units of magnitudes"
+V (Johnson) Magnitude,Reference of publication used for given parameter set
+J (2MASS) Magnitude,"Brightness of the host star as measured using 
+the J (2MASS) band in units of magnitudes"
+J (2MASS) Magnitude Reference,Reference of publication used for given parameter set
+H (2MASS) Magnitude,"Brightness of the host star as measured using 
+the H (2MASS) band in units of magnitudes"
+H (2MASS) Magnitude Reference,Reference of publication used for given parameter set
+Ks  (2MASS) Magnitude,"Brightness of the host star as measured using 
+the K (2MASS) band in units of magnitudes"
+Ks (2MASS) Magnitude Reference,Reference of publication used for given parameter set
+u  (Sloan) Magnitude,"Brightness of the host star as measured using the 
+Sloan Digital Sky Survey (SDSS) u band, in units 
+of magnitudes"
+u (Sloan) Magnitude Reference,Reference of publication used for given parameter set
+g (Sloan) Magnitude,"Brightness of the host star as measured using the 
+Sloan Digital Sky Survey (SDSS) g band, in units 
+of magnitudes"
+g (Sloan) Magnitude,Reference of publication used for given parameter set
+r (Sloan) Magnitude,"Brightness of the host star as measured using the 
+Sloan Digital Sky Survey (SDSS) r band, in units 
+of magnitudes"
+r (Sloan) Magnitude,Reference of publication used for given parameter set
+i (Sloan) Magnitude,"Brightness of the host star as measured using the 
+Sloan Digital Sky Survey (SDSS) i band, in units 
+of magnitudes"
+i (Sloan) Magnitude,Reference of publication used for given parameter set
+z (Sloan) Magnitude,"Brightness of the host star as measured using 
+the Sloan Digital Sky Survey (SDSS) z band, 
+in units of magnitudes"
+z (Sloan) Magnitude Reference,Reference of publication used for given parameter set
+W1 (WISE) Magnitude,"Brightness of the host star as measured using 
+the 3.4um (WISE) band in units of magnitudes."
+W1 (WISE) Magnitude Reference,Reference of publication used for given parameter set
+W2 (WISE) Magnitude,"Brightness of the host star as measured using the 
+4.6um (WISE) band in units of magnitudes."
+W2 (WISE) Magnitude Reference,Reference of publication used for given parameter set
+W3 (WISE) Magnitude,"Brightness of the host star as measured using 
+the 12.um (WISE) band in units of magnitudes"
+W3 (WISE) Magnitude Reference,Reference of publication used for given parameter set
+W4 (WISE) Magnitude,"Brightness of the host star as measured using 
+the 22.um (WISE) band in units of magnitudes"
+W4 (WISE) Magnitude Reference,Reference of publication used for given parameter set
+Gaia Magnitude,"Brightness of the host star as measuring using the 
+Gaia band in units of magnitudes. Objects matched 
+to Gaia using the Hipparcos or 2MASS IDs provided 
+in Gaia DR2."
+Gaia Magnitude Reference,Reference of publication used for given parameter set
+I (Cousins) Magnitude,"Brightness of the host star as measured using 
+the I (Cousins) band in units of magnitudes."
+I (Cousins) Magnitude Reference,Reference of publication used for given parameter set
+TESS Magnitude,"Brightness of the host star as measured using 
+the TESS bandpass, in units of magnitudes"
+TESS Magnitude Reference,Reference of publication used for given parameter set
+Kepler Magnitude,"Brightness of the host star as measured using 
+the Kepler bandpass, in units of magnitudes"
+Kepler Magnitude Reference,Reference of publication used for given parameter set
+Date of Last Update,Date of last update of the planet parameters
+Planetary Parameter Reference Publication,Date of the publication of the given planet parameter set
+Release Date,"Date that the given planet parameter set was 
+publicly released by the NASA Exoplanet Archive"
+Number of Photometry Time Series,"Number of photometric time series records, including 
+         planet transit light curves, general transit light curves, 
+         and amateur light curves."
+Number of Radial Velocity Time Series,"Number of literature radial velocity curves available 
+for this star in the NASA Exoplanet Archive."
+Number of Transmission Spectroscopy Measurements,"Number of literature transmission spectrum measurements 
+for this planet in the NASA Exoplanet Archive"
+Number of Eclipse Spectroscopy Measurements,"Number of literature eclipse spectrum measurements 
+for this planet in the NASA Exoplanet Archive"
+Number of Stellar Spectra Measurements,"Number of literature spectra available for 
+this star in the NASA Exoplanet Archive"
+Number of Direct Imaging Spectroscopy Measurements,"Number of literature direct imaging spectrum measurements 
+for this planet in the NASA Exoplanet Archive"
