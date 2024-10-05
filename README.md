@@ -1,4 +1,4 @@
-# ExoBot
+# ExoBot 🤖
 
 This repository contains all the files and the steps I took while developing our AI Spacebot.
 
