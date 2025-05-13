@@ -1,3 +1,5 @@
 [submodule "Explanets-space-bot"]
 	path = Explanets-space-bot
 	url = https://github.com/mhmdkardosha/Explanets-space-bot.git
+	branch = main
+
