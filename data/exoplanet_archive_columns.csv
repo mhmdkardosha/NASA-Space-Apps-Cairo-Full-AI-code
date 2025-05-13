@@ -11,7 +11,7 @@ HD ID,Name of the star as given by the Henry Draper Catalog
 HIP ID,Name of the star as given by the Hipparcos Catalog
 TIC ID,Name of the star as given by the TESS Input Catalog
 GAIA ID,Name of the star as given by the Gaia Catalog
-Number of Stars,Number of stars in the planetary system
+Number of Stars,Number of gravitationally bound stars in the planetary system
 Number of Planets,Number of confirmed planets in the planetary system
 Number of Moons,Number of moons in the planetary system
 Circumbinary Flag,"Flag indicating whether the planet orbits a binary system (1=yes, 0=no)"
